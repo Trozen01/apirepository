@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1955" started-at="2019-10-04T18:05:59Z" finished-at="2019-10-04T18:06:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1955" started-at="2019-10-04T18:05:59Z" finished-at="2019-10-04T18:06:01Z">
+      <class name="APITestCases.TC4_Get_Request_GoogleMap">
+        <test-method status="PASS" signature="googleMapTest()[pri:0, instance:APITestCases.TC4_Get_Request_GoogleMap@28d25987]" name="googleMapTest" duration-ms="1924" started-at="2019-10-04T18:05:59Z" finished-at="2019-10-04T18:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleMapTest -->
+      </class> <!-- APITestCases.TC4_Get_Request_GoogleMap -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
